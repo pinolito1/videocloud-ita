@@ -51,7 +51,7 @@
   <main>
     <div class="contenedor">
       <video class="fm-video2 video-js vjs-16-9 vjs-big-play-centered" data-setup="{}" controls id="fm-video">
-        <source src="video/keyboard.mp4" type="video/mp4">
+        <source src="video/1.mp4" type="video/mp4">
       </video>
   
      <article>
